@@ -1,0 +1,20 @@
+{
+    "name": "jmayberry.SafekeeperHelper.Editor",
+    "rootNamespace": "jmayberry.SafekeeperHelper.Editor",
+    "references": [
+        "jmayberry.SafekeeperHelper",
+        "Aarthificial.Safekeeper.Editor",
+        "jmayberry.CustomAttributes"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

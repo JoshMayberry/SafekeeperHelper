@@ -1,0 +1,17 @@
+{
+    "name": "jmayberry.SafekeeperHelper",
+    "rootNamespace": "jmayberry.SafekeeperHelper",
+    "references": [
+        "Aarthificial.Safekeeper",
+        "jmayberry.CustomAttributes"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
